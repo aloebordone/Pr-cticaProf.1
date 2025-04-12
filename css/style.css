@@ -10,3 +10,11 @@ p{
 #segundoparrafo{
     color:indigo
 }
+.caja{
+    border: 5px solid rgb(217, 161, 224);
+    margin: 30px;
+    padding: 10px;
+}
+.contenido{
+    border: 5px solid rgb(217, 161, 224);
+}
